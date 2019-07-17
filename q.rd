@@ -7,6 +7,7 @@
     https://www.jstor.org/stable/24105459 [*]: Moon Mineralogy Mapper (M3) on Chandrayaan-1, https://www.isro.gov.in/Spacecraft/chandrayaan-1 [**] Integrated Software for Imagers and Spectrometers (ISIS), https://isis.astrogeology.usgs.gov/
   </meta>
   <meta name="creationDate">2019-07-01T06:00:00</meta>
+  <meta name="subject">M3</meta>
   <meta name="creator.name">Mikhail Minin</meta>
   <meta name="contact.name">Carlos Brandt</meta>
   <meta name="contact.email">c.brandt@jacobs-university.de</meta>
