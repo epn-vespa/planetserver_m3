@@ -1,6 +1,6 @@
 <resource schema="planetserver_m3">
   <meta name="title">PlanetServer-M3</meta>
-  <meta name="description"><pre>
+  <meta name="description">
 This service provides metadata information and hyperlinks to a
 subset of the M3/Chandrayaan-1* spectral cubes dataset provided
 by the PlanetServer/EarthServer-2 project as OGC/WCS endpoints.
@@ -17,7 +17,7 @@ ISRO Science Data Archive, https://pds-imaging.jpl.nasa.gov/volumes/m3.html.
 
 *: Moon Mineralogy Mapper (M3) on Chandrayaan-1, https://www.isro.gov.in/Spacecraft/chandrayaan-1
 **: Integrated Software for Imagers and Spectrometers (ISIS), https://isis.astrogeology.usgs.gov/
-  </pre></meta>
+  </meta>
   <meta name="creationDate">2019-07-01T06:00:00</meta>
   <meta name="subject">M3</meta>
   <meta name="creator.name">Mikhail Minin</meta>
